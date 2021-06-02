@@ -12,6 +12,7 @@ public class Test01 {
         String str = uuid.toString();
         str=str.replaceAll("-", "");
         System.out.println(str);
+        System.out.println("111");
 
     }
 }
